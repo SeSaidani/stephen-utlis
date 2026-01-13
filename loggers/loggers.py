@@ -11,8 +11,7 @@ class Logger(LoggerSetup):
     def __init__(self):
         super().__init__()
 
-  
-
+    # Change this to args as this is shit and limited
     def log_it(self, message, level, error_text_1=None, error_text_2=None, error_text_3=None, error_text_4=None):
         """_summary_
 

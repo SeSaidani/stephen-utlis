@@ -3,7 +3,7 @@ import logging.config
 import yaml
 
 
-class LoggerSetup(object):
+class LoggerSetup:
     """
     A class that configures the logging setup.
 
